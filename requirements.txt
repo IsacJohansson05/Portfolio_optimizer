@@ -4,4 +4,4 @@ plotly
 datetime
 yfinance
 streamlit
-lxml==4.9.1
+lxml
