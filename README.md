@@ -1,7 +1,10 @@
-# [Portfolio optimizer](https://modernportfoliooptimizer.streamlit.app/)
+# Portfolio optimizer
 Sharpe ratio portfolio optimizer
 
 __*DISCLAIMER: PAST RETURNS DOES NOT GUARANTEE FUTURE GAINS*__
+
+## Run on hosted server
+[here](https://modernportfoliooptimizer.streamlit.app/)
 
 ## Run on local enviroment
 Install libraries:
