@@ -6,7 +6,7 @@ __*DISCLAIMER: PAST RETURNS DOES NOT GUARANTEE FUTURE GAINS*__
 ## Run on hosted server
 [here](https://modernportfoliooptimizer.streamlit.app/)
 
-## Run on locally
+## Run locally
 Install libraries:
 ```
 $ pip install -r requirements.txt
