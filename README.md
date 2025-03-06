@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 ```
 Download both backend.py and streamlit.py and run the following command:
 ```
-streamlit run streamlit.py
+$ streamlit run streamlit.py
 ```
 ## Methods
 ...
